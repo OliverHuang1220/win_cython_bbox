@@ -1,0 +1,5 @@
+# win_cython_bbox
+win10编译完成的bbox文件
+
+#针对Fast/Faster R-CNN程序在win10下cython_bbox和cython_cython_nms文件no moudle named cython_bbox问题
+本仓库包含已编译完成的文件
