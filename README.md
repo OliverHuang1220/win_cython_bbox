@@ -3,3 +3,6 @@ win10编译完成的bbox文件
 
 #针对Fast/Faster R-CNN程序在win10下cython_bbox和cython_cython_nms文件no moudle named cython_bbox问题
 本仓库包含已编译完成的文件
+
+#其中bbox.cp36-win_amd64.pyd文件为py3.6下cython_bbox的编译文件
+把程序中有关import cython_bbox的部分改成bbox即可运行
